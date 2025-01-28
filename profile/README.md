@@ -8,8 +8,8 @@
 
 ### Core Focus Areas
 ☁️ **Cloud**  
-🤖 **Analytics powered by AI/ML**  
 📡 **IoT**  
+🤖 **Analytics powered by AI/ML**  
 💻 **Application development**
 
 ---
