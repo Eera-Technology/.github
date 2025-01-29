@@ -1,4 +1,4 @@
-# 🚀 Welcome to EeraTech's GitHub Organization
+# 🚀 Welcome to EeraTech's GitHub.
 
 [![EeraTech Logo](https://img.shields.io/badge/EeraTech-003B6F?style=for-the-badge&logo=github)](https://www.eeratech.com)
 *Innovating Tomorrow's Solutions Today*
